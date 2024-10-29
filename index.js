@@ -1,5 +1,5 @@
 let heroi = {
-    nome: "Doido", 
+    nome: "Dester", 
     xp: 100000
 };
 
